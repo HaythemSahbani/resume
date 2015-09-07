@@ -1,2 +1,2 @@
 # resume
-latex source files
+latex source files for curuculum vitae
